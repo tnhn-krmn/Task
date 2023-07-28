@@ -1,0 +1,1 @@
+﻿public record GercekKisi(TCKN tckn,string ad, string soyad, string adres) : Kisi;
